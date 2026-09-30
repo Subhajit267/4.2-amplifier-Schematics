@@ -227,7 +227,7 @@ The supply runs at roughly **±16 V** under load. Realistic output at this rail 
 | TDA2030A | 4 | about 18-20 W |
 | TDA2050 | 2 | about 32-35 W at this rail voltage |
 
-Total is roughly **90-115 W peak music power**. The TDA2050 can deliver considerably more with a higher rail voltage, but the TDA2030A has an absolute maximum of ±22 V, so a single shared rail has to stay within the TDA2030A limit.
+Total is roughly **136-150 W peak music power**. The TDA2050 can deliver considerably more with a higher rail voltage, but the TDA2030A has an absolute maximum of ±22 V, so a single shared rail has to stay within the TDA2030A limit.
 
 **Important:** A 12 V transformer produces a noticeably higher voltage unloaded (typically 13.5-14 V AC, so about ±18-19 V DC) and higher again with mains at +10%. Always **measure the unloaded rail voltage** and confirm it stays below ±20 V. All reservoir capacitors should be rated **35 V or more**.
 
@@ -363,12 +363,6 @@ This project connects directly to **220 V mains**. Mains voltage can kill.
 - Never work on a powered board.
 
 The authors take no responsibility for damage or injury resulting from use of this design. Build and use it at your own risk.
-
----
-
-## License
-
-Add a license of your choice (for example MIT for software or CERN-OHL-P / CC BY-SA 4.0 for hardware) as a `LICENSE` file in the repository.
 
 ---
 
