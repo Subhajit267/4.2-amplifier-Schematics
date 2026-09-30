@@ -26,7 +26,6 @@ Designed in **EasyEDA**. Schematic revision **3.7**, dated 27-09-2026. Author: *
 14. [Known Limitations](#known-limitations)
 15. [Roadmap](#roadmap)
 16. [Safety Warning](#safety-warning)
-17. [License](#license)
 
 ---
 
