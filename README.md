@@ -224,8 +224,8 @@ The supply runs at roughly **±16 V** under load. Realistic output at this rail 
 
 | Amplifier | Channels | Approx. output per channel (4 Ω) |
 |-----------|----------|----------------------------------|
-| TDA2030A | 4 | about 15-20 W |
-| TDA2050 | 2 | about 15-20 W at this rail voltage |
+| TDA2030A | 4 | about 18-20 W |
+| TDA2050 | 2 | about 32-35 W at this rail voltage |
 
 Total is roughly **90-115 W peak music power**. The TDA2050 can deliver considerably more with a higher rail voltage, but the TDA2030A has an absolute maximum of ±22 V, so a single shared rail has to stay within the TDA2030A limit.
 
